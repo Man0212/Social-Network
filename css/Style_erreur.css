@@ -1,0 +1,44 @@
+.ensemble{
+    width: 1980px;
+    height: 1080px;
+    background-color: blueviolet;
+    background-image: url('909912.png');
+}
+.texte{
+    float: left;
+    margin-left: 500px;
+    margin-top: 250px;
+    width: 910px;
+    height: 430px;
+    background-color: rgb(54, 57, 63);
+    color: white;
+    border-radius: 7px;
+}
+.all{
+    margin-top: 100px;
+}
+.texte p{
+    color: white;
+    font-family: monospace;
+    font-weight: bolders;
+    font-size: 30px;
+}
+.texte button{
+    margin-top: 20px;
+    width: 400px;
+    height: 90px;
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-top-style: hidden;
+    margin-top: 5px;
+    border-radius: 5px;
+       background-color: rgb(88, 101, 242);
+       color: white;
+
+}
+.texte h3{
+    font-family: monospace;
+    font-weight: bolders;
+    font-size: 20px;
+}

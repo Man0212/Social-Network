@@ -1,0 +1,2 @@
+INSERT INTO Membres (Email,MotDePasse,Nom,DateNaissance) VALUES ('Andriasat@gmail','root','ManoAndriasat','2003-12-30');
+INSERT INTO Membres (Email,MotDePasse,Nom,DateNaissance) VALUES ('mano@gmail','root','Mano','2003-12-30');

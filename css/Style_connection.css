@@ -1,0 +1,85 @@
+.ensemble{
+    width: 1980px;
+    height: 1080px;
+
+    background-image: url('../909912.png');
+}
+.connection{
+    float: left;
+    margin-left: 500px;
+    margin-top: 290px;
+    width: 910px;
+    height: 430px;
+    background-color: rgb(54, 57, 63);
+    color: white;
+    border-radius: 7px;
+}
+.formulaire{
+    float: left;
+    margin-left: 30px;
+}
+.formulaire p{
+    font-family: sans-serif;
+    color: rgb(159, 161, 167);
+}
+.formulaire a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(19, 133, 179);
+}
+.intro4{
+    margin-top: 45px;
+}
+.intro4 input{
+    color: rgb(159, 161, 167);   
+}
+
+.intro3 p{
+    margin:5px ;
+}
+.intro3 {
+    margin-top:30px ;
+}
+.formulaire input{
+    
+    width: 450px;
+    height: 35px;
+    background-color: rgb(32, 34, 37);
+    border-bottom-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-top-style: hidden;
+
+}
+#submit{
+    color: white;
+    width: 451px;
+    height: 40px;
+    background-color: rgb(88, 101, 242);
+}
+.logo{
+    float: right;
+    margin-right: 63px;
+}
+#intro{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+#intro2{
+    font-family: sans-serif;
+}
+
+.logo img{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.logo p{
+   margin: 2px;
+   font-family: sans-serif;
+   font-size: 15px;
+}
+#im p{
+    font-family: cursive;
+}
